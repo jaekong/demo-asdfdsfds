@@ -1,0 +1,19 @@
+/* * {
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+}
+
+main {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 100px auto;
+    grid-gap: 12px;
+}
+
+main > h1 {
+    grid-column: 1 / 4;
+} */
+
+
+* {
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+}
